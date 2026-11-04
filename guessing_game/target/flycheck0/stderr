@@ -1,0 +1,5 @@
+    Checking libc v0.2.191
+    Checking getrandom v0.4.3
+    Checking rand v0.10.3
+    Checking guessing_game v0.1.0 (/home/k3/Code/Rust/Learn_Rust_Lang/guessing_game)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.81s
